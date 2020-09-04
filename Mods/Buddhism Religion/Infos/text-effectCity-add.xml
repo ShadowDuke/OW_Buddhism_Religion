@@ -1,0 +1,15 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_BUDDHISM</zType>
+    <English>Mahabodhi Temple</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RELIGION_BUDDHISM</zType>
+    <English>Buddhism</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RELIGION_BUDDHISM_STATE</zType>
+    <English>Buddhism</English>
+  </Entry>
+</Root>

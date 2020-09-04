@@ -1,0 +1,27 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+    <Entry>
+        <zType>SPRITE_GROUP_RELIGION_ICONS</zType>
+        <aeSpriteSheets>
+            <zValue>ASSET_SPRITE_SHEET_RELIGION_BUDDHISM</zValue>
+        </aeSpriteSheets>
+    </Entry>
+    <Entry>
+        <zType>SPRITE_GROUP_UNIT_ICONS</zType>
+        <aeSpriteSheets>
+            <zValue>ASSET_SPRITE_SHEET_RELIGION_BUDDHISM</zValue>
+        </aeSpriteSheets>
+    </Entry>
+    <Entry>
+        <zType>SPRITE_GROUP_UNIT_PORTRAITS</zType>
+        <aeSpriteSheets>
+            <zValue>ASSET_SPRITE_SHEET_UNIT_BUDDHISM_DISCIPLE</zValue>
+        </aeSpriteSheets>
+    </Entry>
+    <Entry>
+        <zType>SPRITE_GROUP_IMPROVEMENT_ICONS</zType>
+        <aeSpriteSheets>
+            <zValue>ASSET_SPRITE_BUDDHISM_MAHABODHI_TEMPLE</zValue>
+        </aeSpriteSheets>
+    </Entry>
+</Root>

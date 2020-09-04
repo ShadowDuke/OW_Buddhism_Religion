@@ -1,0 +1,8 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+	<Entry>
+		<zType>SUBJECT_BUDDHISM</zType>
+		<Class>SUBJECTCLASS_RELIGION</Class>
+		<Religion>RELIGION_BUDDHISM</Religion>
+	</Entry>
+</Root>

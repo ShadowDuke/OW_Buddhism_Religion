@@ -1,0 +1,15 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BUDDHISM_STUPA_TITLE</zType>
+		<English>Places of Worship</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_FOUND_BUDDHISM_TITLE</zType>
+		<English>Siddhārtha Gautama</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOUND_BUDDHISM_TITLE</zType>
+		<English>Siddhārtha Gautama</English>
+	</Entry>
+</Root>

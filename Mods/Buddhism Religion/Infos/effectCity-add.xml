@@ -1,0 +1,41 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+  <Entry>
+    <zType>EFFECTCITY_IMPROVEMENT_HOLY_SITE_BUDDHISM</zType>
+    <Name>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_BUDDHISM</Name>
+    <SourceReligion>RELIGION_BUDDHISM</SourceReligion>
+    <aiYieldRateReligionWorld>
+      <Pair>
+        <zIndex>YIELD_MONEY</zIndex>
+        <iValue>50</iValue>
+      </Pair>
+    </aiYieldRateReligionWorld>
+  </Entry>
+  <Entry>
+    <zType>EFFECTCITY_RELIGION_BUDDHISM</zType>
+    <Name>TEXT_EFFECTCITY_RELIGION_BUDDHISM</Name>
+    <SourceReligion>RELIGION_BUDDHISM</SourceReligion>
+    <aiYieldRate>
+      <Pair>
+        <zIndex>YIELD_CULTURE</zIndex>
+        <iValue>20</iValue>
+      </Pair>
+    </aiYieldRate>
+  </Entry>
+  <Entry>
+    <zType>EFFECTCITY_RELIGION_BUDDHISM_STATE</zType>
+    <Name>TEXT_EFFECTCITY_RELIGION_BUDDHISM_STATE</Name>
+    <Source>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</Source>
+    <SourceReligion>RELIGION_BUDDHISM</SourceReligion>
+    <aiYieldRate>
+      <Pair>
+        <zIndex>YIELD_CULTURE</zIndex>
+        <iValue>20</iValue>
+      </Pair>
+      <Pair>
+        <zIndex>YIELD_DISCONTENT</zIndex>
+        <iValue>-10</iValue>
+      </Pair>
+    </aiYieldRate>
+  </Entry>
+</Root>

@@ -1,0 +1,21 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BUDDHISM_STUPA</zType>
+		<English>Devout members of the {FAMILY-2} family have spent weeks exerting pressure on our royal engineers. They desire the construction of link(IMPROVEMENT_STUPA_BUDDHISM,2) to house the growing number of worshippers.
+
+Do we relent to this pressure?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_FOUND_BUDDHISM</zType>
+		<English><![CDATA[A philosopher, mendicant, meditator and spiritual teacher called Siddhārtha Gautama changed the way of life in {CITY-0}. Refrain from harming living beings. Refrain from taking that which is not freely given. Refrain from sexual misconduct. Refrain from wrong speech. Refrain from intoxicating drink and drugs.
+
+What do we do?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOUND_BUDDHISM</zType>
+		<English><![CDATA[A philosopher, mendicant, meditator and spiritual teacher called Siddhārtha Gautama changed the way of life in {CITY-0}. Refrain from harming living beings. Refrain from taking that which is not freely given. Refrain from sexual misconduct. Refrain from wrong speech. Refrain from intoxicating drink and drugs.
+
+What do we do?]]></English>
+	</Entry>
+</Root>

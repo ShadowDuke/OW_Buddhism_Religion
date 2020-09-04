@@ -1,0 +1,30 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+  <Entry>
+    <zType>UNIT_BUDDHISM_DISCIPLE</zType>
+    <Name>TEXT_UNIT_RELIGION_DISCIPLE</Name>
+    <zIconName>RELIGION_BUDDHISM</zIconName>
+    <zPortraitName>UNIT_BUDDHISM_DISCIPLE</zPortraitName>
+    <zBackgroundName>DiscipleUnitAttackBackground</zBackgroundName>
+    <zAudioSelectionType>DISCIPLE</zAudioSelectionType>
+    <zAudioMovementType>DISCIPLE</zAudioMovementType>
+    <zAudioAttackType>GENERIC</zAudioAttackType>
+    <aeFormations>
+      <zValue>FORMATION_BUDDHISM_DISCIPLE</zValue>
+    </aeFormations>
+    <UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
+    <RequiresReligion>RELIGION_BUDDHISM</RequiresReligion>
+    <SpreadReligion>RELIGION_BUDDHISM</SpreadReligion>
+    <BuildReligion>RELIGION_BUDDHISM</BuildReligion>
+    <ProductionType>YIELD_GROWTH</ProductionType>
+    <iMovement>3</iMovement>
+    <iVision>3</iVision>
+    <iFatigue>3</iFatigue>
+    <iStrength>30</iStrength>
+    <iHPMax>20</iHPMax>
+    <iProduction>80</iProduction>
+    <iProductionPer>5</iProductionPer>
+    <bTheology>1</bTheology>
+    <bReligious>1</bReligious>
+  </Entry>
+</Root>

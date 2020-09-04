@@ -1,0 +1,27 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_BUDDHISM_STUPA_YES</zType>
+		<English>Let them have their stupas.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_BUDDHISM_STUPA_NO</zType>
+		<English>{RELIGION-0,3} must find someplace else to worship.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_BUDDHISM_YES</zType>
+		<English><![CDATA[Allow him to worship.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_BUDDHISM_NO</zType>
+		<English><![CDATA[Banish this atheist.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_FOUND_BUDDHISM_YES</zType>
+		<English><![CDATA[Allow him to worship.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_FOUND_BUDDHISM_NO</zType>
+		<English><![CDATA[Banish this atheist.]]></English>
+	</Entry>
+</Root>

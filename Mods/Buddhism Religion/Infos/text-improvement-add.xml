@@ -1,0 +1,19 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MONASTERY_BUDDHISM</zType>
+    <English>Buddhism Shrine~aBuddhism Shrine ~Buddhism Shrines</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_TEMPLE_BUDDHISM</zType>
+    <English>Buddhism Temple~a Buddhism Temple~Buddhism Temples</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_STUPA_BUDDHISM</zType>
+    <English>Buddhism Stupa~a Buddhism Stupa~Buddhism Stupas</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_HOLY_SITE_BUDDHISM</zType>
+    <English>Mahabodhi Temple</English>
+  </Entry>
+</Root>

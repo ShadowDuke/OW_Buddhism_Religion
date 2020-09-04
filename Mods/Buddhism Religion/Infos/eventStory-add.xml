@@ -1,0 +1,59 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+	<Entry>
+		<zType>EVENTSTORY_BUDDHISM_STUPA</zType>
+		<Name>TEXT_EVENTSTORY_BUDDHISM_STUPA_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_BUDDHISM_STUPA</Text>
+		<zAudioTrigger>AUDIO_UI_EVENT_RITUAL_SPLENDOR</zAudioTrigger>
+		<zEventAuthor>Dominik Hertel</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_BUDDHISM</zValue>
+			<zValue>SUBJECT_PLAYER_US</zValue>
+			<zValue>SUBJECT_FAMILY_US</zValue>
+		</aeSubjects>
+		<SubjectRelations>
+			<Triple>
+				<First>2</First>
+				<Second>SUBJECTRELATION_RELIGION_STATE</Second>
+				<Third>0</Third>
+			</Triple>
+		</SubjectRelations>
+		<aeOptions>
+			<zValue>EVENTOPTION_BUDDHISM_STUPA_YES</zValue>
+			<zValue>EVENTOPTION_BUDDHISM_STUPA_NO</zValue>
+		</aeOptions>
+		<iWeight>2</iWeight>
+		<iRepeatTurns>-1</iRepeatTurns>
+	</Entry>
+	<Entry>
+		<zType>EVENTSTORY_HAPPINESS_FOUND_BUDDHISM</zType>
+		<Name>TEXT_EVENTSTORY_HAPPINESS_FOUND_BUDDHISM_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_HAPPINESS_FOUND_BUDDHISM</Text>
+		<zEventAuthor>Dominik Hertel</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_CITY_US</zValue>
+		</aeSubjects>
+		<aeOptions>
+			<zValue>EVENTOPTION_HAPPINESS_FOUND_BUDDHISM_YES</zValue>
+			<zValue>EVENTOPTION_HAPPINESS_FOUND_BUDDHISM_NO</zValue>
+		</aeOptions>
+		<Trigger>EVENTTRIGGER_CITY_CULTURE</Trigger>
+		<iWeight>1</iWeight>
+		<iRepeatTurns>-1</iRepeatTurns>
+	</Entry>
+	<Entry>
+		<zType>EVENTSTORY_FOUND_BUDDHISM</zType>
+		<Name>TEXT_EVENTSTORY_FOUND_BUDDHISM_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_FOUND_BUDDHISM</Text>
+		<zEventAuthor>Dominik Hertel</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_CITY_US</zValue>
+		</aeSubjects>
+		<aeOptions>
+			<zValue>EVENTOPTION_FOUND_BUDDHISM_YES</zValue>
+			<zValue>EVENTOPTION_FOUND_BUDDHISM_NO</zValue>
+		</aeOptions>
+		<iWeight>1</iWeight>
+		<iRepeatTurns>-1</iRepeatTurns>
+	</Entry>
+</Root>

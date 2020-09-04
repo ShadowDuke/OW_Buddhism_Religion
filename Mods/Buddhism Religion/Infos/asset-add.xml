@@ -1,0 +1,19 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_RELIGION_BUDDHISM</zType>
+		<zAsset>buddhism/RELIGION_BUDDHISM</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_UNIT_BUDDHISM_DISCIPLE</zType>
+		<zAsset>Prefabs/Units/DiscipleZoroastrianism</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_UNIT_BUDDHISM_DISCIPLE</zType>
+		<zAsset>buddhism/UNIT_BUDDHISM_DISCIPLE</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_BUDDHISM_MAHABODHI_TEMPLE</zType>
+		<zAsset>buddhism/IMPROVEMENT_MAHABODHI_TEMPLE</zAsset>
+	</Entry>
+</Root>

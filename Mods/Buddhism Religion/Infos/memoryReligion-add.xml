@@ -1,0 +1,13 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+	<Entry>
+		<zType>MEMORYRELIGION_SPREAD_BUDDHISM</zType>
+		<zText>Spread Buddhism</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ADOPTED_BUDDHISM</zType>
+		<zText>Adopted Buddhism</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+</Root>

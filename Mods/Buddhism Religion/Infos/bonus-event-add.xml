@@ -1,0 +1,21 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_BUDDHISM_STUPA_YES</zType>
+		<Ambition>GOAL_THREE_STUPA_BUDDHISM</Ambition>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HAPPINESS_FOUND_BUDDHISM_YES</zType>
+		<FoundReligion>RELIGION_BUDDHISM</FoundReligion>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HAPPINESS_FOUND_BUDDHISM_NO</zType>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FOUND_BUDDHISM_YES</zType>
+		<FoundReligion>RELIGION_BUDDHISM</FoundReligion>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FOUND_BUDDHISM_NO</zType>
+	</Entry>
+</Root>

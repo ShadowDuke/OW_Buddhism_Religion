@@ -1,0 +1,9 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+  <Entry>
+    <zType>EFFECTPLAYER_RELIGION_BUDDHISM</zType>
+    <Name>TEXT_EFFECTPLAYER_RELIGION_BUDDHISM</Name>
+    <SourceReligionState>RELIGION_BUDDHISM</SourceReligionState>
+    <StateReligionEffectCity>EFFECTCITY_RELIGION_BUDDHISM_STATE</StateReligionEffectCity>
+  </Entry>
+</Root>

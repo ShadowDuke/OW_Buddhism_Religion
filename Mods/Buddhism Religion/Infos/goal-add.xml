@@ -1,0 +1,15 @@
+<!-- Buddhism Religion (Revan) -->
+<Root>
+	<Entry>
+		<zType>GOAL_THREE_STUPA_BUDDHISM</zType>
+		<Name>TEXT_GOAL_THREE_STUPA_BUDDHISM</Name>
+		<iMinTier>5</iMinTier>
+		<iMaxTier>8</iMaxTier>
+		<aiImprovementCount>
+			<Pair>
+				<zIndex>IMPROVEMENT_STUPA_BUDDHISM</zIndex>
+				<iValue>3</iValue>
+			</Pair>
+		</aiImprovementCount>
+	</Entry>
+</Root>
