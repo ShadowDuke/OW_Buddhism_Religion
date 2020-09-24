@@ -102,12 +102,6 @@
         <iValue>2</iValue>
       </Pair>
     </aiYieldPillage>
-	<aiAdjacentImprovementClassModifier>
-			<Pair>
-				<zIndex>IMPROVEMENTCLASS_HAMLET</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiAdjacentImprovementClassModifier>
     <abTerrainValid>
       <Pair>
         <zIndex>TERRAIN_URBAN</zIndex>
