@@ -6,7 +6,7 @@
     <zIconName>RELIGION_BUDDHISM</zIconName>
     <iCostBase>400</iCostBase>
     <iCostPerChange>200</iCostPerChange>
-    <iSpreadThreshold>10</iSpreadThreshold>
+    <iSpreadPercent>8</iSpreadPercent>
     <EffectCity>EFFECTCITY_RELIGION_BUDDHISM</EffectCity>
     <EffectPlayerState>EFFECTPLAYER_RELIGION_BUDDHISM</EffectPlayerState>
     <EffectPlayerUpkeep>EFFECTPLAYER_UPKEEP_LOW_CIVICS</EffectPlayerUpkeep>
