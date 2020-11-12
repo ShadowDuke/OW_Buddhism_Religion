@@ -5,7 +5,6 @@
 		<Name>TEXT_EVENTSTORY_BUDDHISM_STUPA_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_BUDDHISM_STUPA</Text>
 		<zAudioTrigger>AUDIO_UI_EVENT_RITUAL_SPLENDOR</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_BUDDHISM</zValue>
 			<zValue>SUBJECT_PLAYER_US</zValue>
@@ -29,7 +28,6 @@
 		<zType>EVENTSTORY_HAPPINESS_FOUND_BUDDHISM</zType>
 		<Name>TEXT_EVENTSTORY_HAPPINESS_FOUND_BUDDHISM_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_HAPPINESS_FOUND_BUDDHISM</Text>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CITY_US</zValue>
 		</aeSubjects>
@@ -45,7 +43,6 @@
 		<zType>EVENTSTORY_FOUND_BUDDHISM</zType>
 		<Name>TEXT_EVENTSTORY_FOUND_BUDDHISM_TITLE</Name>
 		<Text>TEXT_EVENTSTORY_FOUND_BUDDHISM</Text>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CITY_US</zValue>
 		</aeSubjects>
