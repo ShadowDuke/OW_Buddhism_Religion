@@ -4,7 +4,7 @@
     <zType>IMPROVEMENT_MONASTERY_BUDDHISM</zType>
     <Name>TEXT_IMPROVEMENT_MONASTERY_BUDDHISM</Name>
     <Class>IMPROVEMENTCLASS_MONASTERY</Class>
-    <AssetVariation>ASSET_VARIATION_IMPROVEMENT_MONASTERY</AssetVariation>
+    <AssetVariation>ASSET_VARIATION_IMPROVEMENT_MONASTERY_1</AssetVariation>
     <zIconName>IMPROVEMENT_MONASTERY</zIconName>
     <iBuildTurns>5</iBuildTurns>
     <iBuildCost>1</iBuildCost>
