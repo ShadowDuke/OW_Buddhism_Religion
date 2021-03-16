@@ -183,7 +183,6 @@
     <Class>IMPROVEMENTCLASS_HOLY_SITE</Class>
     <AssetVariation>ASSET_VARIATION_IMPROVEMENT_HOLY_SITE</AssetVariation>
     <zIconName>IMPROVEMENT_MAHABODHI_TEMPLE</zIconName>
-    <fHillHeightOffset>1.0</fHillHeightOffset>
     <iBuildTurns>8</iBuildTurns>
     <iBuildCost>1</iBuildCost>
     <iVP>1</iVP>
