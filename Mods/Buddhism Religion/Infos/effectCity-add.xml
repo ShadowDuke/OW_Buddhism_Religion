@@ -4,12 +4,12 @@
     <zType>EFFECTCITY_IMPROVEMENT_HOLY_SITE_BUDDHISM</zType>
     <Name>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_BUDDHISM</Name>
     <SourceReligion>RELIGION_BUDDHISM</SourceReligion>
-    <aiYieldRateReligionWorld>
+    <aiYieldRateReligion>
       <Pair>
         <zIndex>YIELD_MONEY</zIndex>
         <iValue>50</iValue>
       </Pair>
-    </aiYieldRateReligionWorld>
+    </aiYieldRateReligion>
   </Entry>
   <Entry>
     <zType>EFFECTCITY_RELIGION_BUDDHISM</zType>

@@ -125,7 +125,7 @@
     <zType>IMPROVEMENT_STUPA_BUDDHISM</zType>
     <Name>TEXT_IMPROVEMENT_STUPA_BUDDHISM</Name>
     <Class>IMPROVEMENTCLASS_CATHEDRAL</Class>
-    <AssetVariation>ASSET_VARIATION_IMPROVEMENT_CATHEDRAL</AssetVariation>
+    <AssetVariation>ASSET_VARIATION_IMPROVEMENT_CATHEDRAL_1</AssetVariation>
     <zIconName>IMPROVEMENT_CATHEDRAL</zIconName>
     <iBuildTurns>5</iBuildTurns>
     <iBuildCost>1</iBuildCost>
