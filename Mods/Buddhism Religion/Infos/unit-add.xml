@@ -7,10 +7,12 @@
     <zPortraitName>UNIT_BUDDHISM_DISCIPLE</zPortraitName>
     <zBackgroundName>DiscipleUnitAttackBackground</zBackgroundName>
     <zAudioSelectionType>DISCIPLE</zAudioSelectionType>
-    <zAudioMovementType>DISCIPLE</zAudioMovementType>
+    <zAudioMovementType>ANIMATED</zAudioMovementType>
     <zAudioAttackType>GENERIC</zAudioAttackType>
+	<zAudioDamagedByProjectileType>flesh</zAudioDamagedByProjectileType>
     <aeFormations>
       <zValue>FORMATION_BUDDHISM_DISCIPLE</zValue>
+	  <zValue>FORMATION_DEFAULT_WATER</zValue>
     </aeFormations>
     <UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
     <RequiresReligion>RELIGION_BUDDHISM</RequiresReligion>
@@ -26,5 +28,24 @@
     <iProductionPer>5</iProductionPer>
     <bTheology>1</bTheology>
     <bReligious>1</bReligious>
+	<aeUnitTrait>
+			<zValue>UNITTRAIT_INFANTRY</zValue>
+	</aeUnitTrait>
+	<aaiImprovementYieldRate>
+			<Pair>
+				<zIndex>IMPROVEMENT_MONASTERY_BUDDHISM</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>5</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>IMPROVEMENT_TEMPLE_BUDDHISM</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>50</iValue>
+				</SubPair>
+			</Pair>
+		</aaiImprovementYieldRate>
   </Entry>
 </Root>

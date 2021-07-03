@@ -1,6 +1,6 @@
 <!-- Buddhism Religion (Revan) -->
 <Root>
-  <Entry>
+	<Entry>
     <zType>RELIGION_BUDDHISM</zType>
     <Name>TEXT_RELIGION_BUDDHISM</Name>
     <zIconName>RELIGION_BUDDHISM</zIconName>
@@ -13,11 +13,17 @@
     <EffectPlayerUpkeep>EFFECTPLAYER_UPKEEP_LOW_CIVICS</EffectPlayerUpkeep>
     <RequiresTech>TECH_MONASTICISM</RequiresTech>
     <SpreadUnit>UNIT_BUDDHISM_DISCIPLE</SpreadUnit>
-    <aiRequiresReligion>
-      <Pair>
-        <zIndex>RELIGION_ZOROASTRIANISM</zIndex>
-        <iValue>1</iValue>
-      </Pair>
+	<aiRequiresSpecialistClass>
+		<Pair>
+			<zIndex>SPECIALISTCLASS_ACOLYTE</zIndex>
+			<iValue>2</iValue>
+		</Pair>
+	</aiRequiresSpecialistClass>
+	<aiRequiresReligion>
+		<Pair>
+			<zIndex>RELIGION_ZOROASTRIANISM</zIndex>
+			<iValue>1</iValue>
+		</Pair>
     </aiRequiresReligion>
-  </Entry>
+	</Entry>
 </Root>
