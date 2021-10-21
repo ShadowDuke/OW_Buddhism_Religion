@@ -2,14 +2,14 @@
 <Root>
   <Entry>
     <zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_BUDDHISM</zType>
-    <English>Mahabodhi Temple</English>
+    <en-US>Mahabodhi Temple</en-US>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_RELIGION_BUDDHISM</zType>
-    <English>Buddhism</English>
+    <en-US>Buddhism</en-US>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_RELIGION_BUDDHISM_STATE</zType>
-    <English>Buddhism</English>
+    <en-US>Buddhism</en-US>
   </Entry>
 </Root>

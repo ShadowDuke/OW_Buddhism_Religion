@@ -1,14 +1,14 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<en-US/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYRELIGION_SPREAD_BUDDHISM</zType>
-		<English>Spread Buddhism</English>
+		<en-US>Spread Buddhism</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MEMORYRELIGION_ADOPTED_BUDDHISM</zType>
-		<English>Adopted Buddhism</English>
+		<en-US>Adopted Buddhism</en-US>
 	</Entry>
 </Root>

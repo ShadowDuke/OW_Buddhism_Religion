@@ -2,18 +2,18 @@
 <Root>
   <Entry>
     <zType>TEXT_IMPROVEMENT_MONASTERY_BUDDHISM</zType>
-    <English>Buddhism Shrine~aBuddhism Shrine ~Buddhism Shrines</English>
+    <en-US>Buddhism Shrine~aBuddhism Shrine ~Buddhism Shrines</en-US>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_TEMPLE_BUDDHISM</zType>
-    <English>Buddhism Temple~a Buddhism Temple~Buddhism Temples</English>
+    <en-US>Buddhism Temple~a Buddhism Temple~Buddhism Temples</en-US>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_STUPA_BUDDHISM</zType>
-    <English>Buddhism Stupa~a Buddhism Stupa~Buddhism Stupas</English>
+    <en-US>Buddhism Stupa~a Buddhism Stupa~Buddhism Stupas</en-US>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_HOLY_SITE_BUDDHISM</zType>
-    <English>Mahabodhi Temple</English>
+    <en-US>Mahabodhi Temple</en-US>
   </Entry>
 </Root>

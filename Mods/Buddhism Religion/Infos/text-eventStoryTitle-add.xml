@@ -2,14 +2,14 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BUDDHISM_STUPA_TITLE</zType>
-		<English>Places of Worship</English>
+		<en-US>Places of Worship</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HAPPINESS_FOUND_BUDDHISM_TITLE</zType>
-		<English>Siddhārtha Gautama</English>
+		<en-US>Siddhārtha Gautama</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FOUND_BUDDHISM_TITLE</zType>
-		<English>Siddhārtha Gautama</English>
+		<en-US>Siddhārtha Gautama</en-US>
 	</Entry>
 </Root>

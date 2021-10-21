@@ -10,6 +10,7 @@
     <iBuildCost>1</iBuildCost>
     <iPillageTurns>10</iPillageTurns>
     <iMaxCityCount>1</iMaxCityCount>
+	<iOpinionReligion>2</iOpinionReligion>
     <bBuild>1</bBuild>
     <bTerritoryOnly>1</bTerritoryOnly>
     <bUrban>1</bUrban>
@@ -73,6 +74,7 @@
     <iBuildCost>1</iBuildCost>
     <iPillageTurns>10</iPillageTurns>
     <iMaxCityCount>1</iMaxCityCount>
+	<iOpinionReligion>2</iOpinionReligion>
     <bBuild>1</bBuild>
     <bTerritoryOnly>1</bTerritoryOnly>
     <bUrban>1</bUrban>
@@ -133,6 +135,7 @@
     <iMaxCityCount>1</iMaxCityCount>
     <iMaxFamilyCount>2</iMaxFamilyCount>
     <iLegitimacy>5</iLegitimacy>
+	<iOpinionReligion>4</iOpinionReligion>
     <bBuild>1</bBuild>
     <bTerritoryOnly>1</bTerritoryOnly>
     <bUrban>1</bUrban>
@@ -188,7 +191,7 @@
     <iVP>1</iVP>
     <iMaxCityCount>1</iMaxCityCount>
     <iUnitTurns>20</iUnitTurns>
-    <iUnitReligionDie>1</iUnitReligionDie>
+	<iOpinionReligion>10</iOpinionReligion>
     <bBuild>1</bBuild>
     <bHolyCity>1</bHolyCity>
     <bTerritoryOnly>1</bTerritoryOnly>
